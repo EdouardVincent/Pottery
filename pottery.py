@@ -1,5 +1,6 @@
 import rhinoscriptsyntax as rs
 import random
+
 crv = []
 cercles = []
 intervales = 8
